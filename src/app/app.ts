@@ -40,3 +40,4 @@ export class App {
     this.notificacao.mostrar('Guia rápido disponível na apresentação do projeto.');
   }
 }
+
